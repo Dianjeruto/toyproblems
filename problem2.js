@@ -1,4 +1,7 @@
+const prompt =require('prompt-sync')();
+
 function speedLimit(speed){
+
     // user to enter vehicle speed
     let speed = prompt("Enter Speed of the Vehicle: ");
     // speed below or equal to 70 is okay
