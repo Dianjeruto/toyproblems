@@ -8,6 +8,9 @@
   </p>
 </div>
 
+## Author
+Dian Jeruto 
+
 ## About The Project
 
 The project consists of 3 files written in JavaScript. They are functions that solve the assignment problems.
